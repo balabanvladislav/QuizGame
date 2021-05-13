@@ -1,0 +1,15 @@
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames.csprojAssemblyReference.cache
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\MainWindow.g.cs
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\App.g.cs
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames_MarkupCompile.cache
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames_MarkupCompile.lref
+C:\Users\37360\source\repos\QuizGames\QuizGames\bin\Debug\QuizGames.exe.config
+C:\Users\37360\source\repos\QuizGames\QuizGames\bin\Debug\QuizGames.exe
+C:\Users\37360\source\repos\QuizGames\QuizGames\bin\Debug\QuizGames.pdb
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\MainWindow.baml
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames.g.resources
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames.Properties.Resources.resources
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames.csproj.GenerateResource.cache
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames.csproj.CoreCompileInputs.cache
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames.exe
+C:\Users\37360\source\repos\QuizGames\QuizGames\obj\Debug\QuizGames.pdb
